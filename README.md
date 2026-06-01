@@ -4,10 +4,10 @@ This project demonstrates how to perform automated Exploratory Data Analysis (ED
 
 ## Features
 
-- **Automated Reporting**: Generates a complete EDA report with one line of code.
-- **Dataset Insights**: Highlights missing values, duplicate rows, and data types.
-- **Visualizations**: Includes distribution plots, correlation matrices, and interaction charts.
-- **Descriptive Statistics**: Calculates mean, median, mode, variance, and standard deviation automatically.
+- Automated Reporting: Generates a complete EDA report with one line of code.
+- Dataset Insights: Highlights missing values, duplicate rows, and data types.
+- Visualizations: Includes distribution plots, correlation matrices, and interaction charts.
+- Descriptive Statistics: Calculates mean, median, mode, variance, and standard deviation automatically.
 
 ## Prerequisites
 
